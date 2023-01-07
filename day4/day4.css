@@ -1,0 +1,19 @@
+.name{background-color: chartreuse;}
+.lake{width: 500px;}
+.forest{width: 60%;}
+/* section for landscape */
+.container{
+    background-color: aqua;
+    padding-top: 2em;
+}
+.title{
+    border: solid 5px;
+    text-align: center;
+    background-color: beige;
+    padding: 1em;
+    width: 80%;
+    margin: auto;
+    box-shadow: 5px 10px 5px gray; 
+    margin-bottom: 2em;
+}
+.image1, .imag2{width: 45%;}
